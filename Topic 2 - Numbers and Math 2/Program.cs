@@ -11,8 +11,7 @@
             Console.WriteLine("The answer is" + (14 + 15 + 16) / 3);
             Console.WriteLine();
             Console.WriteLine("The answer is" + (14.0 + 15.0 + 16.0 + 17.0 / 4));
-            Console.WriteLine();
-            Console.WriteLine("I'm" + (2025 - 2008) + "years, 10 months and 2 days old");
+          
             Console.WriteLine();
             Console.WriteLine("The answer is" + (14 + 15 + 16) / 3);
             Console.WriteLine();
